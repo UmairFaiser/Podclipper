@@ -1,0 +1,9 @@
+{
+  "name": "ai-podcast-clipper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python main.py",
+    "start": "python main.py"
+  }
+}
