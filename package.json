@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "python main.py",
-    "start": "python main.py"
+    "dev": "cd ai-podcast-clipper-backend && python main.py",
+    "start": "cd ai-podcast-clipper-backend && python main.py"
   }
 }
